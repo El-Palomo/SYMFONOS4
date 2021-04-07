@@ -33,7 +33,7 @@ MAC Address: 08:00:27:61:75:4D (Oracle VirtualBox virtual NIC)
 Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
 ```
 
-
+<img src="https://github.com/El-Palomo/SYMFONOS4/blob/main/symfonos1.jpg" width=80% />
 
 > Basicamente solo tenemos dos puertos TCP/22 y TCP/80. Toca enumerar mucho en Apache.
 
