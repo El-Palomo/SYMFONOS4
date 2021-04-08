@@ -167,7 +167,7 @@ Table: user
 
 <img src="https://github.com/El-Palomo/SYMFONOS4/blob/main/symfonos7.jpg" width=80% />
 
-- Lo que puede estar ocurriendo es que a nivel de desarrollo el programador este añadiendo una EXTENSIÓN, por ejemplo, la extensión TXT o LOG. aÑADIR (%00 - NULLBYE) no está funcionando. Tocar probar nombres sin extensión por ejemplo: auth, access, daemon.
+- Lo que puede estar ocurriendo es que a nivel de desarrollo el programador este añadiendo una EXTENSIÓN, por ejemplo, la extensión TXT o LOG. Añadir (%00 - NULLBYTE) no está funcionando. Tocar probar nombres sin extensión por ejemplo: auth, access, daemon.
 
 <img src="https://github.com/El-Palomo/SYMFONOS4/blob/main/symfonos8.jpg" width=80% />
 
